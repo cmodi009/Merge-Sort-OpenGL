@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1606456404 source:c:\users\chint\desktop\sorting\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<string.h>
+
+1598009128 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1598009128 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
